@@ -13,6 +13,3 @@ contains the pilot data labelling results with the Cohen's Kappa value.
 ## 3. Extracted_Data.xlsx
 
 contains the final results of the data extracted from GitHub closed issues.
-
-
-
