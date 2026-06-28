@@ -1,4 +1,4 @@
-# Dataset of the Paper "Demystifying Issues, Causes and Solutions in LLM-based Multi-Agent Systems in Software Engineering"
+# Understanding Issues, Causes and Solutions in LLM-based Multi-Agent Open Source Systems"
 
 The dataset collected from GitHub is used to conduct an empirical study on the issues, Causes, and Solutions in LLM-based Multi-Agent Systems in Software Engineering. A brief description of each document in the dataset is provided below: 
 
