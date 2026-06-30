@@ -1,15 +1,15 @@
-# Understanding Issues, Causes and Solutions in LLM-based Multi-Agent Open Source Systems"
+# Understanding Issues, Causes and Solutions in Open-Source LLM-based Multi-Agent Systems
 
-The dataset collected from GitHub is used to conduct an empirical study on the issues, Causes, and Solutions in LLM-based Multi-Agent Systems in Software Engineering. A brief description of each document in the dataset is provided below: 
+The dataset collected from GitHub is used to conduct an empirical study on the issues, causes and solutions in open-source LLM-based multi-agent systems. A brief description of each document in the dataset is provided below:
 
-## 1. raw data folder
+## 1. Formal_Labeling folder
 
-Contains 22,848 .xlsx files, each of which includes the information from a GitHub closed issue. All 22,848 files collectively constitute the raw data for this study.
+This folder contains 22,848 issue files from 21 multi-agent projects in XLSX format. Each file includes information extracted from a closed GitHub issue, and collectively, these 22,848 files constitute the raw dataset used in this study.
 
-## 2. Pilot_Labelling.xlsx
+## 2. Pilot_Labeling(MAS).xlsx
 
-contains the pilot data labelling results with the Cohen's Kappa value.
+This file contains the pilot data labeling results along with the Cohen's Kappa value.
 
-## 3. Extracted_Data.xlsx
+## 3. Extracted_Data(MAS).xlsx
 
-contains the final results of the data extracted from GitHub closed issues.
+This file contains the final results of the data extracted from   GitHub closed issues.
