@@ -1,6 +1,6 @@
-# Understanding Issues, Causes and Solutions in Open-Source LLM-based Multi-Agent Systems
+# Understanding Issues, Causes, and Solutions in Open-Source LLM-based Multi-Agent Systems
 
-The dataset collected from GitHub is used to conduct an empirical study on the issues, causes and solutions in open-source LLM-based multi-agent systems. A brief description of each document in the dataset is provided below:
+The dataset collected from GitHub is used to conduct an empirical study on the issues, causes, and solutions in open-source LLM-based multi-agent systems. A brief description of each document in the dataset is provided below:
 
 ## 1. Formal_Labeling folder
 
