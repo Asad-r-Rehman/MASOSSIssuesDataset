@@ -29,7 +29,7 @@ This file contains the final results of the data extracted from   GitHub closed 
 ## 📝 Citation
 
 ```bibtex
-@article{Wu2026FasterPy,
+@article{Rehman2026MASIssues,
   author = {Rehman, Asad Ur and Kashif, Syed Mohammad and Li, Ruiyin and Liang, Peng and Li, Zengyang and Khan, Arif Ali},
   title = {{Understanding Issues, Causes and Solutions in Open-Source LLM-based Multi-Agent Systems}},
   journal={arXiv preprint arXiv:xxxx.xxxxx},
