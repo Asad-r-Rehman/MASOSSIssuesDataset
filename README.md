@@ -6,7 +6,7 @@
     <a href="https://github.com/Asad-r-Rehman/MASOSSIssuesDataset/">
       <img src="https://img.shields.io/badge/Dataset-GitHub-2d333b?style=flat-square&logo=github" alt="github">
     </a>
-    <a href="https://arxiv.org/abs/xxxx.xxxxx">
+    <a href="https://arxiv.org/abs/2610.00905">
       <img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv">
     </a>
     <hr>
@@ -32,7 +32,7 @@ This file contains the final results of the data extracted from   GitHub closed 
 @article{Rehman2026MASIssues,
   author = {Rehman, Asad Ur and Kashif, Syed Mohammad and Li, Ruiyin and Liang, Peng and Li, Zengyang and Khan, Arif Ali},
   title = {{Understanding Issues, Causes and Solutions in Open-Source LLM-based Multi-Agent Systems}},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  journal={arXiv preprint arXiv:2610.00905},
   year={2026}
 }
 ```
